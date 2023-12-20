@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-_py-xgboost-mutex=2.0=cpu_0
 _r-mutex=1.0.1=anacondar_1
 agate=1.6.1=py38_2
 agate-dbf=0.2.2=py_0
